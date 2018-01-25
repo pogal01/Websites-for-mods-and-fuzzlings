@@ -1,0 +1,96 @@
+/*Fuzzling Homepage Golden colour\!*/
+
+body {
+ background-color: lightgoldenrodyellow ;
+}
+
+.Fuzzlings{
+
+}
+
+h1 {
+    color: darkblue;
+    
+}
+
+p {
+    color: black;
+    
+}
+
+h2 {
+    color: darkblue;
+         
+}
+
+h3{
+  
+}
+
+.margin-right {
+ margin-right:425px;
+
+}
+
+margin-left{
+margin-left:100px;
+
+
+}
+
+
+
+img {
+    display: block;
+    margin: auto;
+}
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 16px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+   
+   
+}
+
+#Origin {
+    font-size: 16px;
+
+}
+
+#Fuzzling {
+    display: compact
+
+}
+
+.move {
+    margin-left: 14%;
+    padding: 1px 16px;
+    height: 1000px
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 14%;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 27%;
+    overflow: auto;
+}
+
+
+
+    li a.active {
+        background-color: #4CAF50;
+        color: white;
+    }
+
+    li a:hover:not(.active) {
+        background-color: #555;
+        color: white;
+    }

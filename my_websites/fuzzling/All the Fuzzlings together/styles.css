@@ -1,0 +1,75 @@
+/*Fuzzling Homepage Golden colour\!*/
+
+body {
+ background-color: lightgoldenrodyellow ;
+}
+
+.Fuzzlings{
+text-align:center;
+}
+
+h1 {
+    color: darkblue;
+    text-align:center;
+}
+
+p {
+    color: black;
+    text-align:center
+    
+}
+
+h2 {
+    color: darkblue;
+          text-align:center;
+}
+
+h3{
+    text-align:center;
+}
+
+margin-right {
+ margin-right:425px;
+
+}
+
+#margin-left{
+margin-left:100px;
+text-align:center
+
+
+}
+
+
+img {
+    margin: auto;
+}
+
+
+#Origin {
+    font-size: 16px;
+
+}
+
+#Fuzzling {
+    display: compact
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 14%;
+    background-color:red;
+    position: fixed;
+    height: 8%;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}

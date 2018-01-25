@@ -1,0 +1,35 @@
+body {
+ background-color: lightgoldenrodyellow;
+}
+
+
+h1 {
+    color: darkblue;
+    text-align:center;
+}
+
+p {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: darkblue;
+          text-align:center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 16px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+   
+}
+
